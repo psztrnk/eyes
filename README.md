@@ -13,4 +13,4 @@ The Eyes Project provides very infrequent updates to the locations' raw data. Th
 
 ### License
 
-This code is released to the Public Domain (except thisrd-party components mentioned in the Credits section of this document). See full statement in the [LICENSE](LICENSE) file.
+This code is released to the Public Domain (except third-party components mentioned in the Credits section of this document). See full statement in the [LICENSE](LICENSE) file.
