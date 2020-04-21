@@ -9,7 +9,7 @@ Visualized data from the Where are the [Eyes Project](https://eyes.daylightingso
 
 ### Updates
 
-The Eyes Project provides very infrequent updates to the locations' raw data. The [latest dataset](https://eyes.daylightingsociety.org/rawdata) is timestamped "2019-03-25". Whenever a new dataset is released, I'll try to update `data/eyes.kml`.
+The Eyes Project provides very infrequent updates to the locations' raw data. The [latest dataset](https://eyes.daylightingsociety.org/rawdata) is timestamped "2020-04-21". Whenever a new dataset is released, I'll try to update `data/eyes.kml`.
 
 ### License
 
