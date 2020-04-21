@@ -1,5 +1,5 @@
 # Where are the Eyes
-Visualized data from the Where are the [Eyes Project](https://eyes.daylightingsociety.org/) by [The Daylighting Society](https://daylightingsociety.org/). You can see the project live [on this link](https://paszternak.me/eyes/).
+Visualized data from the Where are the [Eyes Project](https://eyes.daylightingsociety.org/) by [The Daylighting Society](https://daylightingsociety.org/). You can see the project live [on this link](https://paszternak.me/_misc/eyes/).
 
 ### Credits
 
